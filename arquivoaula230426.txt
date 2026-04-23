@@ -7,3 +7,5 @@ e o colaborador baixa na máquina dele
 novo branch no remoto contendo 1 arquivo novo
 comitar sua criação
 comitar sua alteração
+
+tarefas feitas no novo branch tarefas1
