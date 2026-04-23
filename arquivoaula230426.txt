@@ -1,0 +1,9 @@
+trabalhando em grupo no git
+repositório remoto
+faço localmente no meu computador
+passo pro local remoto
+e o colaborador baixa na máquina dele
+
+novo branch no remoto contendo 1 arquivo novo
+comitar sua criação
+comitar sua alteração
